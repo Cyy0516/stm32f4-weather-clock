@@ -1,1 +1,2 @@
 print('cyy')
+print('y')
